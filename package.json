@@ -3,13 +3,13 @@
   "description": "babel plugin for streamline.js",
   "version": "1.0.4",
   "license": "MIT",
-  "homepage": "http://github.com/Sage/streamlinejs",
+  "homepage": "http://github.com/Sage/babel-plugin-streamline",
   "author": {
     "name": "Bruno Jouhier"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Sage/streamline-runtime.git"
+    "url": "git://github.com/Sage/babel-plugin-streamline.git"
   },
   "dependencies": {
     "colors": "~1.1.2"
