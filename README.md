@@ -17,7 +17,6 @@ $ npm install babel-plugin-streamline
 	extra: {
 		streamline: {
 			runtime: 'callbacks',
-			verbose: 'true',
 			// more
 		}
 	}

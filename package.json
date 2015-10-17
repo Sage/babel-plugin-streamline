@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-streamline",
   "description": "babel plugin for streamline.js",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "MIT",
   "homepage": "http://github.com/Sage/babel-plugin-streamline",
   "author": {
@@ -18,13 +18,8 @@
   "peerDependencies": {
     "babel": ">=5.8.0"
   },
-  "readme": "# babel-plugin-streamline\n\nBabel plugin for streamline.js\n\nWork in progress...\n",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/Sage/streamline-runtime/issues"
-  },
-  "_id": "babel-plugin-streamline@1.0.0",
-  "scripts": {},
-  "_shasum": "485364ce0dd1ed370302bdf87bbd5ba1b3789078",
-  "_from": "babel-plugin-streamline@>=1.0.0 <2.0.0"
+    "url": "https://github.com/Sage/babel-plugin-streamline/issues"
+  }
 }
