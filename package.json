@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-streamline",
   "description": "babel plugin for streamline.js",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
   "homepage": "http://github.com/Sage/babel-plugin-streamline",
   "author": {
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "colors": "^1.1.2",
-    "babel-core": "^6.3.17"
+    "babel-core": "^6.3.26"
   },
   "readmeFilename": "README.md",
   "bugs": {
