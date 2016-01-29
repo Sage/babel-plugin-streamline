@@ -29,6 +29,10 @@ The other runtimes (`fibers`, `generators`) do not need `regenerator` so you sho
 
 See the [babel API docs](https://babeljs.io/docs/usage/api/) for details.
 
+## Links
+
+* [Issues](https://github.com/Sage/streamlinejs/issues) are centralized in the streamlinejs GitHub repository.
+
 ## License
 
 MIT.
